@@ -6,7 +6,9 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/vijayinyoutube/scroll_animation_app)
 [![Flutter](https://img.shields.io/badge/_Flutter_-App-grey.svg?&logo=Flutter&logoColor=white&labelColor=blue)](https://github.com/vijayinyoutube/scroll_animation_app)
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58719230/117541902-c6333f00-b033-11eb-9c7f-29001144e597.png" width="100%">
+</p>
 
 ## Flutter
 [Flutter](https://flutter.dev/) is a crossplatfrom UI tool kit that helps in developing native Android and iOS app from a single code base.
